@@ -2,7 +2,7 @@ ECOR1042 Software Project
 Name: Magic Game
 Software Version: Python 3.10
 Date: 16/08/23
-Contact Info: Anna Romazanova (ann.romazanova@gmail.com)
+Contact Info: Abubakr Mohammed (mabubakr601@gmail.com)
 
 The software's objective is to take a .csv file and arrange the data to whatever the
 user prefers and display it clearly. It allows the user to load, sort, display and
@@ -16,24 +16,6 @@ python -m pip install matplotlib
 python -m pip install numpy
 After installing the softwares Numpy, Matplotlib and Python(version 3.10 or higher).
 Open a Python IDE such as Wing 101 and open the zip file of the code on the platform.
-
-Usage
-Refer to the user manual video for more detailed walkthrough. The video will explain
-the instructions and procedure on how to utilize the software in the right manner.
-
-Credits
-Each team member was responsible for helping make the project work effectively and
-contributed great time and effort into doing so.
-Abubakr contributed in coding the weapon_list function, Return a List unit
-testing function, the strength_selection sort function and the curve_fit
-function.
-Anna contributed in coding the occupation_list function, Correct a Dictionary
-Inside a List unit testing function, the health_bubble sort function and the
-text user interface function.
-Dyson contributed in coding stamina_list function, Return a List with Correct
-Length function, Sort_luck_bubble function and the Batch UI function.
-Eyad contributed in coding personality_list function, calculate_health
-function, sort_armor_insertion function and the histogram function.
 
 License
 MIT License
